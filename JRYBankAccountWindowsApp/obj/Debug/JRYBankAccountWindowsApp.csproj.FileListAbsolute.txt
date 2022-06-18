@@ -1,0 +1,10 @@
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\bin\Debug\JRYBankAccountWindowsApp.exe.config
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\bin\Debug\JRYBankAccountWindowsApp.exe
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\bin\Debug\JRYBankAccountWindowsApp.pdb
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\obj\Debug\JRYBankAccountWindowsApp.csprojAssemblyReference.cache
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\obj\Debug\JRYBankAccountWindowsApp.Form1.resources
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\obj\Debug\JRYBankAccountWindowsApp.Properties.Resources.resources
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\obj\Debug\JRYBankAccountWindowsApp.csproj.GenerateResource.cache
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\obj\Debug\JRYBankAccountWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\obj\Debug\JRYBankAccountWindowsApp.exe
+C:\Users\Jonah\source\repos\JRYBankAccountWindowsApp\JRYBankAccountWindowsApp\obj\Debug\JRYBankAccountWindowsApp.pdb
